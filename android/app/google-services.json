@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417966692383",
+    "project_id": "zestyrentals-70732",
+    "storage_bucket": "zestyrentals-70732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417966692383:android:fb592b8871322a75ee9d2a",
+        "android_client_info": {
+          "package_name": "com.zestyrentals.rentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417966692383-o5c5c08k1hvcb71313v53t7er4k0f7rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_idtp2hA8Bkbz_CNutRBUfK2fGcZzpqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417966692383-o5c5c08k1hvcb71313v53t7er4k0f7rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
